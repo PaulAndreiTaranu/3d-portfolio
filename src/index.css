@@ -6,4 +6,16 @@
 @theme {
     /* FONTS */
     --font-generalsans: 'General Sans', sans-serif;
+
+    /* COLORS */
+    --color-black-100: #010103;
+    --color-black-200: #0e0e10;
+    --color-black-300: #1c1c21;
+    --color-black-500: #3a3a49;
+    --color-black-600: #1a1a1a;
+
+    --color-white-800: #e4e4e6;
+    --color-white-700: #d6d9e9;
+    --color-white-600: #afb0b6;
+    --color-white-500: #62646c;
 }
